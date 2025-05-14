@@ -33,3 +33,10 @@ enum AppDestination: Hashable {
     case notes
     case settings
 }
+```
+
+<img src="https://github.com/user-attachments/assets/28ec88dd-1b49-4ddf-b6e2-6cbb34c6b679" width="300" alt="Login" />
+<img src="https://github.com/user-attachments/assets/62ca20bc-56e1-42c8-9008-66eb825ee9c7" width="300" alt="HomeMenu" />
+<img src="https://github.com/user-attachments/assets/d0956e40-ccf7-415e-bca5-66d2717c6719" width="300" alt="MealMenu" />
+
+
