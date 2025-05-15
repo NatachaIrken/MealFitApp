@@ -1,10 +1,10 @@
 # MealFitApp
 
-**MealFitApp** is a simple SwiftUI application designed to help users track their daily meals, write personal notes, and view progress over time. The app is built with a focus on clean navigation using the **Coordinator pattern**, allowing scalable and maintainable routing logic between views.
+**The app is built with a focus on clean navigation using the **Coordinator pattern**, allowing scalable and maintainable routing logic between views.
 
 ---
 
-## 📱 Features
+## Features
 
 - **Add and list meals** (breakfast, lunch, snacks, etc.)
 - **Write and save notes**
